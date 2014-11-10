@@ -1,0 +1,37 @@
+{
+  "name": "aldoborrero-website",
+
+  "version": "0.1.0",
+
+  "devDependencies": {
+    "grunt": "~0.4.0",
+
+    "grunt-contrib-clean": "~0.4.0",
+    "grunt-contrib-concat": "~0.5.0",
+    "grunt-contrib-uglify": "~0.6.0",
+    "grunt-contrib-copy": "~0.6.0",
+    "grunt-contrib-compress": "~0.12.0",
+    "grunt-contrib-cssmin": "~0.10.0",
+    "grunt-contrib-watch": "~0.6.1",
+    "grunt-contrib-htmlmin": "~0.3.0",
+    "grunt-contrib-connect": "~0.8.0",
+    "grunt-contrib-less": "~0.11.4",
+    "grunt-contrib-imagemin": "~0.8.1",
+
+    "grunt-jslint": "~0.2.3",
+    "grunt-curl": "~2.0.2",
+    "grunt-zip": "~0.15.0",
+    "load-grunt-tasks": "0.6.0",
+    "grunt-wiredep": "1.9.0",
+    "grunt-bower-requirejs": "1.1.0",
+    "grunt-usemin": "2.4.0",
+    "grunt-rev": "0.1.0",
+    "grunt-uncss": "0.3.6",
+    "grunt-npm-install": "git://github.com/iclanzan/grunt-npm-install.git",
+    "grunt-filerev": "2.1.0"
+  },
+
+  "engines": {
+    "node": ">=0.10.0"
+  }
+}
