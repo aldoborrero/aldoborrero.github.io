@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+  <channel>
+    <title>Aldo Borrero</title>
+    <link>http://aldoborrero.com</link>
+    <description>Thoughts about Android, NodeJS and technology in general</description>
+    <pubDate>Thu, 15 Jan 2015 22:44:00 +0100</pubDate>
+    <item>
+      <title>Welcome again to my new website!</title>
+      <link>http://aldoborrero.com/archive/2015/01/15/welcome-to-my-new-website-again/</link>
+      <description>&lt;p&gt;Welcome again my dear visitor!&lt;/p&gt;
+</description>
+      <pubDate>Thu, 15 Jan 2015 22:44:00 +0100</pubDate>
+      <dc:date>2015-01-15T22:44:00+01:00</dc:date>
+    </item>
+    <dc:date>2015-01-15T22:44:00+01:00</dc:date>
+  </channel>
+</rss>
